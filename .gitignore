@@ -28,3 +28,8 @@ robots.txt
 sitemap.xml
 sitemap.gz
 sitemap.tar.gz
+
+
+# AKI
+main.js
+config.json
